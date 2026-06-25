@@ -1,5 +1,5 @@
 /**
- * Braids By Crown Studio Inc. - Core Luxury Execution Engine
+ * Braids By Crown Beauty Inc. - Core Luxury Execution Engine
  * Architecture Style: Vanilla Object-Oriented Component Lifecycle Encapsulation
  * Optimization Grade: Production / Hardware Accelerated Web Interactions
  */
@@ -441,7 +441,7 @@ if (luxuryForm && modal) {
         const businessPhone = "16477183961"; 
 
         // 2. Package the text beautifully
-        const message = `Hello Crown Studio ✨,%0A%0A` +
+        const message = `Hello Crown Beauty ✨,%0A%0A` +
                         `I would like to submit a booking inquiry:%0A%0A` +
                         `👤 *Name:* ${encodeURIComponent(name)}%0A` +
                         `📞 *Phone:* ${encodeURIComponent(phone)}%0A` +
